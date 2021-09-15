@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joyce Anne Gomez joyce.anne.gomez@accenture.com
 
 # THANKS
 
